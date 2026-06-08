@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>CastleOfIllusion.PakTool</RootNamespace>
+    <AssemblyName>Castle Of Illusion - Pak Tool</AssemblyName>
+    <ApplicationIcon>Images\icone.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Images\Banner.png" />
+    <EmbeddedResource Include="Images\icone.ico" />
+  </ItemGroup>
+
+</Project>
