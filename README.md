@@ -6,4 +6,4 @@ Castle Of Illusion - Pak Tool is a tool designed to edit .PAK files from the con
 
 ## Plataforms
 
-Xbox 360
+Xbox 360 (only test in Xbox 360 [emulator](https://github.com/xenia-canary/xenia-canary)
