@@ -1,4 +1,8 @@
 ## Castle Of Illusion - Pak Tool
+![Version](https://img.shields.io/github/v/release/HeitorSpectre/Castle-Of-Illusion-Pak-Tool?style=for-the-badge&label=Version)
+![Downloads](https://img.shields.io/github/downloads/HeitorSpectre/Castle-Of-Illusion-Pak-Tool/total?style=for-the-badge&label=Downloads)
+![Stars](https://img.shields.io/github/stars/HeitorSpectre/Castle-Of-Illusion-Pak-Tool?style=for-the-badge&label=Stars)
+![License](https://img.shields.io/github/license/HeitorSpectre/Castle-Of-Illusion-Pak-Tool?style=for-the-badge&label=License)
 
 Castle Of Illusion - Pak Tool is a tool designed to edit .PAK files from the console versions of the Castle of Illusion games. It allows users to extract, view, modify, and reinsert files contained within the game's PAK archives, providing an easy and efficient way to explore and mod the game's resources.
 
